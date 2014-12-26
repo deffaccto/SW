@@ -1,0 +1,14 @@
+D:\deFaccto\Programiranje\StormWind\Domaci za decembar\Domaci za decembar\bin\Debug\Domaci za decembar.exe.config
+D:\deFaccto\Programiranje\StormWind\Domaci za decembar\Domaci za decembar\bin\Debug\baza.mdf
+D:\deFaccto\Programiranje\StormWind\Domaci za decembar\Domaci za decembar\bin\Debug\baza_log.ldf
+D:\deFaccto\Programiranje\StormWind\Domaci za decembar\Domaci za decembar\bin\Debug\Domaci za decembar.exe
+D:\deFaccto\Programiranje\StormWind\Domaci za decembar\Domaci za decembar\bin\Debug\Domaci za decembar.pdb
+D:\deFaccto\Programiranje\StormWind\Domaci za decembar\Domaci za decembar\obj\Debug\Domaci za decembar.csprojResolveAssemblyReference.cache
+D:\deFaccto\Programiranje\StormWind\Domaci za decembar\Domaci za decembar\obj\Debug\Domaci_za_decembar.Form1.resources
+D:\deFaccto\Programiranje\StormWind\Domaci za decembar\Domaci za decembar\obj\Debug\Domaci_za_decembar.Properties.Resources.resources
+D:\deFaccto\Programiranje\StormWind\Domaci za decembar\Domaci za decembar\obj\Debug\Domaci_za_decembar.SpisakStdForm.resources
+D:\deFaccto\Programiranje\StormWind\Domaci za decembar\Domaci za decembar\obj\Debug\Domaci za decembar.csproj.GenerateResource.Cache
+D:\deFaccto\Programiranje\StormWind\Domaci za decembar\Domaci za decembar\obj\Debug\Domaci za decembar.exe
+D:\deFaccto\Programiranje\StormWind\Domaci za decembar\Domaci za decembar\obj\Debug\Domaci za decembar.pdb
+D:\deFaccto\Programiranje\StormWind\Domaci za decembar\Domaci za decembar\obj\Debug\Domaci_za_decembar.DodavanjeStdForm.resources
+D:\deFaccto\Programiranje\StormWind\Domaci za decembar\Domaci za decembar\obj\Debug\Domaci_za_decembar.SpisakFaxForm.resources
